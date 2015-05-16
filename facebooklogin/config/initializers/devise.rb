@@ -260,6 +260,6 @@ Devise.setup do |config|
   #Ranveer
   #config.omniauth :facebook, "810737009034280", "d025b8efb2b6f62f508db51ad97ac974"
   
-  config.omniauth :facebook, "1394004547594532", "b63b0c0e39fb498b6f86f2f2a8ef94bd"
+  config.omniauth :facebook, "1394016184260035", "ceadcdadfaa9dde756cb5f754dec760f"
 
 end
